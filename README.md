@@ -148,12 +148,12 @@ During CTFs and pentesting labs, the target IP or a small piece of contextual in
 
 CTFBar was created to keep that information visible and immediately accessible without having to repeatedly search through terminal history, notes, or multiple terminal windows.
 
-## Author
+# Author
 
 EldritchEcho
 
 Built for CTFs, pentesting labs and security learning.
 
-## License
+#### License
 
 This project is licensed under the MIT License.
