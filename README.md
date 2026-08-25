@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # CTFBar
 
 > A lightweight XFCE panel utility for CTF and pentesting workflows.
