@@ -52,14 +52,14 @@ Run the installer:
 
 The installer will:
 
-1.- Check the environment
-2.- Install missing dependencies
-3.- Create the CTFBar configuration directory
-4.- Add the required ZSH functions
-5.- Create the XFCE panel plugins
-6.- Position CTFBar next to the CPU Graph when available
-7.- Verify the resulting panel configuration
-8.- Create backups for recovery
+- Check the environment 
+- Install missing dependencies 
+- Create the CTFBar configuration directory 
+- Add the required ZSH functions 
+- Create the XFCE panel plugins 
+- Position CTFBar next to the CPU Graph when available 
+- Verify the resulting panel configuration 
+- Create backups for recovery 
 
 ## Usage
 
