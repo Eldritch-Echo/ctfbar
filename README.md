@@ -1,6 +1,7 @@
 # CTFBar
 
 > A lightweight XFCE panel utility for CTF and pentesting workflows.
+![CTFBar XFCE Panel](screenshots/screen1.png)
 
 CTFBar is a small utility designed to keep the most important information of a CTF or pentesting session visible directly on the XFCE panel.
 
